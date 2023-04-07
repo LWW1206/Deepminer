@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1680876955 source:e:\bif\2.semester\c++\deepminer\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"Grid.h"
+	"BaseRobot.h"
+	"GameWorld.h"
+
+1680796400 source:e:\bif\2.semester\c++\deepminer\grid.cpp
+	"Grid.h"
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<algorithm>
+
+1680806542 e:\bif\2.semester\c++\deepminer\grid.h
+	<vector>
+	<cstdlib>
+	<ctime>
+
+1680807273 source:e:\bif\2.semester\c++\deepminer\baserobot.cpp
+	"BaseRobot.h"
+	"Grid.h"
+	<iostream>
+
+1680772933 e:\bif\2.semester\c++\deepminer\baserobot.h
+	"Grid.h"
+
+1680877620 source:e:\bif\2.semester\c++\deepminer\gameworld.cpp
+	"GameWorld.h"
+	"BaseRobot.h"
+	"Grid.h"
+	<cstdlib>
+	<ctime>
+	<algorithm>
+	<iostream>
+
+1680877329 e:\bif\2.semester\c++\deepminer\gameworld.h
+	"Grid.h"
+	"BaseRobot.h"
+
